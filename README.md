@@ -10,7 +10,7 @@
   your API service securely'
   
   ## Demo
-  > <img src="https://github.com/d1089/Canva/blob/main/demo/AutomationDemo.gif" width="auto" height="auto" />
+  > <img src="https://github.com/d1089/okta-auth/tree/main/demo/OktaAuthDemo.gif" width="auto" height="auto" />
 
 2. Using Okta Authentication SDK
    In Progress..
